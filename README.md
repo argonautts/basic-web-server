@@ -1,4 +1,4 @@
 Basic web server on go
 ========================
 
-![struct_server](images/struct_server.png)
+![struct_server](images/struct_server.jpg)
